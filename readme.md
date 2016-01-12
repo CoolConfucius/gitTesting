@@ -3,6 +3,4 @@
 
 This is a readme! 
 
-Read me! 
-
-yay2
+Read me!
